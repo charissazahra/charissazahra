@@ -1,7 +1,7 @@
 ### Hi there 👋
 **Charissa Zahra**  
 Student of Informatics Engineering & Fullstack Web Developer<br>
-I am currently deepening my knowledge regarding Fullstack Web Developer using the Java programming languages.
+I am currently deepening my knowledge regarding Fullstack Web Developer using Python and Java programming languages.
 
 Connect with me on [Linkedin](https://www.linkedin.com/in/charissa-zahra-273758246).
 ### GitHub Statistic
